@@ -31,6 +31,7 @@ def install_additional_modules () :
             subprocess.run(["pip", "install", "-r", "./requirements.txt"], stdout=requirementsLogFile, stderr=requirementsLogFile, check = True)
         except Exception as e:
             print("Error")
+            exit()
 
 if __name__ == "__main__" :
     install_additional_modules()
