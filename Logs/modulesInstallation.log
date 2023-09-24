@@ -1,0 +1,4 @@
+Requirement already satisfied: ping3>=4.0.4 in c:\users\emili\appdata\local\programs\python\python311\lib\site-packages (from -r ./requirements.txt (line 1)) (4.0.4)
+Requirement already satisfied: scapy>=2.5.0 in c:\users\emili\appdata\local\programs\python\python311\lib\site-packages (from -r ./requirements.txt (line 2)) (2.5.0)
+Requirement already satisfied: tqdm>=4.66.1 in c:\users\emili\appdata\local\programs\python\python311\lib\site-packages (from -r ./requirements.txt (line 3)) (4.66.1)
+Requirement already satisfied: colorama in c:\users\emili\appdata\local\programs\python\python311\lib\site-packages (from tqdm>=4.66.1->-r ./requirements.txt (line 3)) (0.4.6)
