@@ -4,7 +4,6 @@
 # Log management
 # UX/UI
 
-# pip install -r requirements.txt
 ###
 
 import subprocess
