@@ -1,11 +1,7 @@
-##### Future improvements #####
-# Check if libraries are installed on the client machine
-# Offline
-# Log management
-# UX/UI
+##############################################################################
+### Put the requirements.txt file in the same folder as this python script ###
+##############################################################################
 
-
-###
 
 import subprocess
 
